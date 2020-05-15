@@ -9,7 +9,7 @@ Best way I have found is using [brew](https://brew.sh/)
 ```
 brew cask install chromedriver
 ```
-
+Install and run the crawler in headless mode from the command line:
 ```
 virtualenv -p python3 env
 source env/bin/activate
